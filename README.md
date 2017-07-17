@@ -1,3 +1,3 @@
-#Hangman2.0
-Teaching grades 6-8 basic computer logic and game creation.
- 
+# Hangman2.0
+---
+A game written in python designed to teach grades 6-8 about basic game programming and computer logic.
