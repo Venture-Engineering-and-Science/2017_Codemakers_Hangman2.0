@@ -10,7 +10,7 @@ used_letters = []
 
 hidden_word = []
 
-word = word_list[random.randint(0,15)]
+word = word_list[random.randint(0,len(word_list) - 1]
 
 hidden_word = hidden_word + (['_'] * len(list(word)))
 
@@ -54,5 +54,3 @@ if game_won:
     print("Congratulations you win!")
 else:
     print("Sorry! You lost... Please try again!")
-    
-    
